@@ -1,1 +1,2 @@
-this this the first line in this file :)
+this this the first command in this file :)
+this is ths second line
