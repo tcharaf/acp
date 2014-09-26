@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this this the first command in this file :)
 this is ths second line
+=======
+this this the first line in this file :)
+>>>>>>> ec8c4eeccd3d221a91ee1b058f5e7fe1fc7ccd61
